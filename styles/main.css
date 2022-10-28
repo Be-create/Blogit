@@ -1,0 +1,29 @@
+@import url("./navbar.css");
+.card{
+    
+    
+    margin: 20px;
+    
+}
+.head > h3 {
+    display: block;
+   
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+   
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.tail{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
